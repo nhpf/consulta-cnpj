@@ -15,3 +15,5 @@ Mind that the resulting CSV files are post-processed to be displayed in Excel, a
  
 ## Current interface:
 ![Interface Preview](./media/interface-v1.jpeg)
+
+This repository is under the terms specified at GNU General Public License v3.0
